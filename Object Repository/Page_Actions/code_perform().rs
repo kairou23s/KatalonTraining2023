@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>code_perform()</name>
+   <tag></tag>
+   <elementGuidId>89d3523e-94a2-4219-82a9-0848bb61eb6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>code</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/following::code[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>code</value>
+      <webElementGuid>3b163f0a-4fd9-4238-8388-c88c2544342e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>perform()</value>
+      <webElementGuid>575bc498-6a11-40ee-826b-5bb1a5251b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/div[@class=&quot;description&quot;]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/div[@class=&quot;block&quot;]/p[2]/a[1]/code[1]</value>
+      <webElementGuid>3b8ac65d-7352-4ef7-a37e-5e9cda96d294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Actions/iframe_classFrame</value>
+      <webElementGuid>7fc8d09a-b3b7-449f-9d90-0c364595d4a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[2]/following::code[1]</value>
+      <webElementGuid>74c9ad00-0381-4489-bc1a-fa935dd7c4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructor Summary'])[1]/preceding::code[1]</value>
+      <webElementGuid>fb6adf0b-822f-4a17-a228-16c37d6788e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Constructors'])[1]/preceding::code[1]</value>
+      <webElementGuid>eadffc27-e625-4823-ac15-f8a12d08faf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='perform()']/parent::*</value>
+      <webElementGuid>c1b0a82e-f8a1-431a-b8b7-f8e844319d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//code</value>
+      <webElementGuid>f1d8b7b0-a380-4b8c-a31a-8bb5db764fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//code[(text() = 'perform()' or . = 'perform()')]</value>
+      <webElementGuid>15945857-ff98-4f70-8980-91b1e41c7829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
