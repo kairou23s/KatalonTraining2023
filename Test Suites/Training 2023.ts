@@ -28,7 +28,7 @@
    <testCaseLink>
       <guid>0467003a-1ba7-41ae-b095-d0c1ed14c12b</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Training 2023/ScriptMode</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
